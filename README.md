@@ -1,5 +1,0 @@
-# gatway_Integrate_CI_CD_Jenkins
-# gatway_Integrate_CI_CD_Jenkins
-# gatway_Integrate_CI_CD_Jenkins
-# gatway_Integrate_CI_CD_Jenkins
-# gatway_Integrate_CI_CD_Jenkins
