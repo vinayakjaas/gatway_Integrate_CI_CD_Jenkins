@@ -13,7 +13,7 @@ This project focuses on implementing Continuous Integration (CI) and Continuous 
 - [Usage](#usage)
 - [Pipeline](#pipeline)
 - [Contributing](#contributing)
-- 
+- [Documentation](Documentation.md)
 
 ## Introduction
 
